@@ -4,7 +4,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 
-st.link_button("Open a new tab/window to view the source code here", "https://github.com/tngyo/mini/blob/secondbranch/element.py")
+st.title("Useful Streamlits elements")
+
+st.link_button("Open a new tab/window to view the source code here", "https://github.com/tngyo/mini/blob/secondbranch/pages/elements.py")
 
 st.subheader("st.write's swiss knife prowess")
 #st.write's swiss knife prowess

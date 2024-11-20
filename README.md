@@ -1,4 +1,4 @@
-About Streamlit :streamlit: Mini 
+About Streamlit Mini 
 
 Learn Streamlit basics fast! Just browse from the sidebar and find (Ctrl-f) what you need to create your Streamlit app. Remeber to click the button at the page top to view the source code :smile:.
 
